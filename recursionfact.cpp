@@ -11,7 +11,7 @@ x=fact(n);
 cout<<"the factorial of the number is"<<x;
 }
 /////////////////////////////////////////////////////////
-long fact(long n)
+long fact(long n)//factorial funtion
 {
 if (n==0)
 return 1;
